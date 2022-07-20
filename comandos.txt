@@ -24,6 +24,19 @@
             
             git push --delete Rama --- Eliminar Rama
 
+            git pull origin Rama --- Actualiza la rama con nuevos archivos compartidos por otros usuarios
+
+            git clone url  --- Clona el repositorio de la url en mensión
+            git clone --branch Rama url   ---igual
+            git clone -b Rama url         ---igual
+
+           git clone --branch Fernando https://github.com/FERNANDO-GONZALEZ/M-dulo-Uno---Git.git ---Personal
+           git clone https://github.com/usuario--externo/Nombre--repositorio-Git.git --- De usuario externo
+
+/* He logrado clonar el repositorio del profe David*/
+
+
+
 
 
 
