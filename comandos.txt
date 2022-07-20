@@ -1,0 +1,30 @@
+1) git init --- Por proyecto
+
+2) git add . --- Cada vez que halla un cambio
+
+   Una sola vez -----------> git cnfig --global user.name "FERNANDO-GONZALEZ"
+   Una sola vez -----------> git config --global user.email "fcprimaveral@gmail.com"
+   Una sola vez -----------> git config --list
+
+3) git commit -m "Comentario"  ---Se comenta el commit
+
+4) git remote add origin https://github.com/FERNANDO-GONZALEZ/...
+
+5) git push origen master
+
+            git branch  --- identifica la rama actual
+
+            git branch -M main  --- Cambia el nombre de la rama master
+
+            git branch dev  --- Crea la rama dev
+
+            git checkout dev --- Se pasa a la rama dev
+
+            git branch -d qa  --- Eliminar rama qa
+            
+            git push --delete Rama --- Eliminar Rama
+
+
+
+
+
